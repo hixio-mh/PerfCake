@@ -82,9 +82,9 @@
       <version.byteman>3.0.6</version.byteman>
       <version.servo>0.12.10</version.servo>
 
-      <version.maven.plugin.api>3.3.9</version.maven.plugin.api>
-      <version.maven.core>3.3.9</version.maven.core>
-      <version.maven.plugin.annotations>3.4</version.maven.plugin.annotations>
+      <version.maven.plugin.api>3.8.3</version.maven.plugin.api>
+      <version.maven.core>3.8.3</version.maven.core>
+      <version.maven.plugin.annotations>3.6.2</version.maven.plugin.annotations>
 
       <!-- Tools -->
       <version.findbugs>3.0.1u2</version.findbugs>
